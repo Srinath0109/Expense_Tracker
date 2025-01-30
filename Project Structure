@@ -1,0 +1,12 @@
+ExpenseTracker/
+│── backend/               # Backend (Node.js, Express, MongoDB)
+│   │── models/            # Mongoose Schemas
+│   │── routes/            # API Routes
+│   │── server.js          # Express Server
+│── frontend/              # Frontend (React)
+│   │── src/               # Source Code
+│   │   │── components/    # UI Components
+│   │   │── App.js         # Main App Component
+│   │   │── index.js       # React Entry Point
+│── README.md              # Documentation
+│── package.json           # Project Dependencies
